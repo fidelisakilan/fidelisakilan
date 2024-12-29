@@ -39,7 +39,7 @@ Speaking of cars, have you heard about the Dacia Sandero? It's known for its aff
   - *Technologies:* Python, OpenCV, Gemini, Flutter, Firebase
   - *Award:* Winner of [MLH] Best Use of Auth0 at ShellHacks 2024
   - *Devpost:* [WatchDog on Devpost](https://devpost.com/software/watchdog-vz03q8)
-  - *GitHub Repository:* [ShellHacks-WatchDog](https://github.com/nikil1506/ShellHacks-WatchDog)
+  - *GitHub Repository:* [Framework](https://github.com/nikil1506/ShellHacks-WatchDog), [Dashboard](https://github.com/fidelisakilan/watchdog_dashboard)
 
 
 
