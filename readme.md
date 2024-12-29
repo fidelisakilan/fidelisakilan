@@ -1,7 +1,10 @@
 # Hi there, I'm Fidelis Akilan 👋
-#### Currently pursuing my Master's in Computer Science at the University of Texas at Tyler
-#### I love discussing about motorsports and software development.
-#### Speaking of cars, have you heard about the Dacia Sandero? It's known for its affordability and practicality. Anyway, 
+
+```
+Currently pursuing my Master's in Computer Science at the University of Texas at Tyler
+I love discussing about cars and software development.
+Speaking of cars, have you heard about the Dacia Sandero? It's known for its affordability and practicality. Anyway,
+```
 
 ## About Me
 
