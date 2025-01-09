@@ -3,7 +3,6 @@
 ```
 Currently pursuing my Master's in Computer Science at the University of Texas at Tyler
 I love discussing about cars and software development.
-Speaking of cars, have you heard about the Dacia Sandero? It's known for its affordability and practicality. Anyway,
 ```
 
 ## About Me
@@ -15,6 +14,8 @@ Speaking of cars, have you heard about the Dacia Sandero? It's known for its aff
 - 🌐 [LinkedIn](https://linkedin.com/in/akilan-amithasagaran-315aa37a)
 - 📫 [Email](mailto:fidelisakilan@gmail.com)
 - 🐦 [Twitter](https://x.com/fidelis_akilan)
+- 💼 [Portfolio](https://fidelisakilan.github.io/)
+
 
 ### What I'm doing: 
  
