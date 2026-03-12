@@ -19,7 +19,6 @@ I love discussing about cars and software development.
 
 ### What I'm doing: 
  
-- 🔭 I’m currently working on TickTock, an AI planner app as a personal project 
 - 🌱 I’m learning about LLMs, Machine learning and Math! 
 - 👯 I’m looking to collaborate on mobile apps and conference events 
 
